@@ -9,10 +9,32 @@ body {
     margin-left: -8px;
     margin-right: 0px;
     margin-bottom: 0px;
-    background-color: #111 ;
-    padding: 10px ;
+    background-color: #111;
+    padding: 10px;
     width: 100vw;
 }
+
+.textBox {
+     display: inline-block;
+     vertical-align: top;
+     margin: 50px;
+     color: Tomato;
+     background-color: #111;
+     padding: 30px;
+     height: 180vh;
+     width: 70vw;
+ }
+
+ .textBoxSide {
+     display: inline-block;
+     vertical-align: top;
+     margin: 50px;
+     color: Tomato;
+     background-color: #111;
+     padding: 30px;
+     height: 180vh;
+     width: 10vw;
+ }
 
 .sidenav {
   height: 100%;
