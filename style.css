@@ -93,8 +93,9 @@ main {
   display: flex;
   flex-direction: row;
   text-align: center;
-  background-color: Tomato;
-  padding: 20px;
+  background-color: #1b1b1b;
+  color: #d8d8d8;
+  padding: 30px;
   border-radius: 10px;
 }
 
