@@ -85,7 +85,7 @@ main {
   margin-right: auto+50px;
   width: auto;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: #FFFFFF;
   color: #000000;
   padding: 30px;
